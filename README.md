@@ -17,7 +17,7 @@ What this Lab covers:
 - Creating procedures, functions, and triggers
 
 Technology used:
-- Oracle Database <img src="https://www.amazon.com/Oracle-DB-11g-Errors-Guide/dp/B00NJSSFR0" width="20"/>
+- Oracle Database 
 
 ---
 

@@ -1,14 +1,8 @@
 # Database Design, Management and Administration
 
-> Database Design, Management and Administration lab exercises using Oracle Database.
+> MSIS4013.Q22.CTTT
 
 ---
-
-## Overview
-
-This repository contains practical exercises for the **Database Design, Management and Administration (MSIS4013.Q22.CTTT)** course at University of Information Technology (UIT).
-
-This course builds on **Database Systems Fundamentals** and focuses on database management, administration, and programming using Oracle Database.
 
 What this Lab covers:
 - Managing Oracle users, roles, and privileges
@@ -76,4 +70,4 @@ Database-Administration/
 ## Note
 
 This repository was created for learning and practice purposes.
-The exercises are based on the Database Design, Management and Administration course materials.
+AI was used to help improve explanations, documentation, and formatting.

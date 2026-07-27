@@ -45,6 +45,8 @@ database-systems-design-implementation-and-management/
 │   ├── Lab5_Data.sql
 │   └── Lab5_Exercises.sql
 │
+├── Theory/
+│
 └── README.md
 ```
 

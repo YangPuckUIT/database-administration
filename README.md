@@ -1,4 +1,4 @@
-# Database Design, Management and Administration
+# Database Systems: Design, Implementation, and Management
 
 > MSIS4013.Q22.CTTT
 
@@ -18,7 +18,7 @@ Technology used:
 ## Lab Structure
 
 ```
-Database-Administration/
+database-systems-design-implementation-and-management/
 │
 ├── Lab1/
 │   ├── Lab1_Docs.docx

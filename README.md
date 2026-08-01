@@ -1,4 +1,4 @@
-# Database Systems: Design, Implementation, and Management
+# Database Systems: Design, Implementation, and Management 
 
 > Course Code: MSIS4013.Q22.CTTT, using Oracle Database
 
